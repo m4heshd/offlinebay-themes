@@ -32,6 +32,6 @@ There are multiple reasons. For one, data in the theme.json would be loaded befo
 
 After you created these files you should create a zip file containing all these files in the root of the zip file. Then that zip file should be moved to `dist` folder inside you theme's folder. Take a look at few original themes to further understand this structure.
 
-If your theme is ready to share as mentioned above, you can create a Pull request to this repository or you can share it on the [Suprbay thread](#Suprbay). I would recommend the pull request since it's much cleaner.
+If your theme is ready to share as mentioned above, you can create a Pull request to this repository or you can share it on the [Suprbay thread](https://pirates-forum.org/Thread-Release-OfflineBay-v2-Open-source-and-No-more-Java-dependency). I would recommend the pull request since it's much cleaner.
 
 **NOTE:** Make sure to keep your themes up to date with future OfflineBay updates. GUI structure could change and theme structure could change with those updates.
