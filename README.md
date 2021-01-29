@@ -5,7 +5,7 @@
 OfflineBay Themes
 </h1>
 
-This is the dedicated repository for [OfflineBay](https://github.com/techtacoriginal/offlinebay) themes. All updated themes will be backwards compatible and match all versions of OfflineBay after `2.0.0`.
+This is the dedicated repository for [OfflineBay](https://github.com/m4heshd/offlinebay) themes. All updated themes will be backwards compatible and match all versions of OfflineBay after `2.0.0`.
 
 # How to Download?
 If you want to import a theme to OfflineBay, you should download the ZIP file inside the dist folder of any theme above and import them directly using the **Import** button on themes window. For an example **`Default > dist > Default.zip`**
